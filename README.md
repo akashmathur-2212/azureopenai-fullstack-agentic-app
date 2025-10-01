@@ -1,0 +1,1 @@
+[![Watch the video]](https://raw.githubusercontent.com/akashmathur-2212/azureopenai-fullstack-agentic-app/main/assets/Video_Demonstration.mp4)
