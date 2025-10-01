@@ -19,6 +19,7 @@ wheels/
 
 # testing
 /coverage
+/backend/temp_uploads
 
 # production
 /build
