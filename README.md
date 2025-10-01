@@ -108,9 +108,11 @@ pip install -r requirements.txt
 Add your environment variables (create a `.env` file inside `backend/`):
 
 ```
-OPENAI_API_KEY=your_openai_key
-AZURE_OPENAI_ENDPOINT=your_azure_endpoint
-AZURE_OPENAI_DEPLOYMENT=your_deployment_name
+api_key = your_azure_openai_key
+endpoint = your_azure_endpoint
+api_version = your_azure_api_version
+model_name = your_azure_model_name
+deployment = your_deployment_name
 ```
 
 Run the backend:
