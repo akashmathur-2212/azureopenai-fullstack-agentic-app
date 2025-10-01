@@ -16,7 +16,6 @@ from config import (
 from nltk.corpus import stopwords
 
 nltk.download("stopwords")
-login(token="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")
 
 
 def get_unique_file_id(file):
